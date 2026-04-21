@@ -1,12 +1,12 @@
 {
-  "export_job_id": "88dd8185-32e6-43a8-91d2-72b6ec33e68d",
+  "export_job_id": "24f25db6-d032-42bc-ad64-d3313dec4162",
   "id_short": 329489,
-  "published_at": "2026-04-17T19:19:03Z",
+  "published_at": "2026-04-21T19:17:37Z",
   "repo_name": "all-restaurants-in-lafayette-metro-louisiana-us-sample-329489",
   "sample_asset_name": "beamstation_329489_restaurants-us-lafayettela_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/329489/beamstation_329489_restaurants-us-lafayettela_SAMPLE_DIST.csv",
-  "sample_records": 92,
-  "sample_sha256": "d3382431016efa4e5a8032ff0d461292642f843d1ff814f8afe850f722c93ba0",
-  "sample_size_bytes": 353742,
-  "total_records": 924
+  "sample_records": 83,
+  "sample_sha256": "9657cb8333e830855663555ebdd6d09a3323a4868ddf3e58338d668d1cebc340",
+  "sample_size_bytes": 321855,
+  "total_records": 834
 }
