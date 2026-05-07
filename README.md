@@ -1,6 +1,6 @@
 # All Restaurants in Lafayette (Metro), Louisiana, US
 
-> Free BeamStation sample export with 90 rows and masked direct-contact fields.
+> Free BeamStation sample export with 98 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `329489` |
 | Location | Lafayette, LA |
 | Category | Restaurants |
-| Full dataset size | 903 records |
-| Free sample size | 90 records (9.97%) |
-| Last export | 2026-04-28T17:42:42.543499+00:00 |
+| Full dataset size | 980 records |
+| Free sample size | 98 records (10.0%) |
+| Last export | 2026-05-06T22:26:54.790711+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lafayette-metro-louisiana-us-sample-329489/releases/download/sample-latest/beamstation_329489_restaurants-us-lafayettela_SAMPLE_DIST.csv) |
 
 ## What is in this sample
